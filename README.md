@@ -5,4 +5,4 @@ This is research paper implemenation of "Double Domain Guided Real-Time Low-Ligh
 Feel Free to Correct me, if you find bug in my code.
 
 Official Paper: https://ieeexplore.ieee.org/document/10423894
-Authors: Jingxiang Qu(https://orcid.org/0000-0001-5625-4147) et.al
+<br>Authors: Jingxiang Qu(https://orcid.org/0000-0001-5625-4147) et.al
